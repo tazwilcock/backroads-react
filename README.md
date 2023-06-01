@@ -1,34 +1,14 @@
-# Backroads App
+# Travel Tours App
 
-[Working Application - Deployed](https://backroads-app.netlify.app/)
+[See Deployed Project](https://backroads-reactjs-project.netlify.app/)
 
--  backroads-html - working html/css/javascript project (contains assets)
--  final(complete source code) - working react application
-   -  navigate to the folder
-   -  run 'npm install'
-   -  once the dependencies are installed run 'npm start'
+This is a project where we converted a website buil with HTML and CSS to React.
 
-#### React Course
+[See John's React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+The following is an outline of what we did for this project.
+The main feats had to do with breaking up the code into components, and iterating using .map
 
-#### Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
-#### Create New React App
-
--  install
-
-```sh
-npx create-react-app@latest backroads-app
-```
-
--  run dev server
-
-```sh
-npm start
-```
 
 #### SRC Folder (boilerplate)
 
