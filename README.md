@@ -2,7 +2,7 @@
 
 [See Deployed Project](https://backroads-reactjs-project.netlify.app/)
 
-This is a project where we converted a website buil with HTML and CSS to React.
+This is a project from the course below where we converted a website built with HTML and CSS to React.
 
 [See John's React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
